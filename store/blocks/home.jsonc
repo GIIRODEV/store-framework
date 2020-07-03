@@ -15,6 +15,9 @@
     ]
   },
   "flex-layout.col":{ 
+    "children":[
+      "rich-text#deletar"
+    ],
     "props":{
       "blockClass": "textColumn",
       "preventVerticalStretch": true
