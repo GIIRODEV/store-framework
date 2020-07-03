@@ -5,11 +5,23 @@
       "info-card",
       "info-card#button-right",
       "info-card#button-left",
-      "flex-layout.row",
-      "flex-layout.col"
-      
+      "flex-layout.row"
     ]
   },
+  "flex-layout.row":{
+    "children": [
+      "info-card#rethink",
+      "rich-text#deletar",
+      "flex-layout.col"
+    ]
+  },
+  "flex-layout.col":{ 
+    "props":{
+      "blockClass": "textColumn",
+      "preventVerticalStretch": true
+    }
+  },
+  
   "rich-text": {
     "props": {
       "text": "*Hello, World!*",
@@ -56,21 +68,6 @@
       "textAlignment": "center"
     }
   },
-
-  "flex-layout.row":{
-    "children": [
-      "info-card#rethink",
-      "rich-text#deletar"
-    ],
-
-    "flex-layout.col":{
-      "children": [
-        "rich-text",
-        "rich-tex#deletar"
-      ]
-    }
-  },
-  
  "info-card#rethink": {
     "props": {
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/utensilios-cozinha-min.png",
@@ -79,8 +76,7 @@
       "callToActionText": "Discover",
       "textPosition": "center"
     }
-  },
-  
+  },  
   "rich-text#deletar": {
     "props": {
       "text": "I'll be deleted soon"
