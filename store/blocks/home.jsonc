@@ -11,7 +11,6 @@
   "flex-layout.row":{
     "children": [
       "info-card#rethink",
-      "rich-text#deletar",
       "flex-layout.col"
     ]
   },
@@ -79,7 +78,7 @@
   },  
   "rich-text#deletar": {
     "props": {
-      "text": "I'll be deleted soon"
+      "text": "**I'll be deleted soon**"
     }
   }
 }
