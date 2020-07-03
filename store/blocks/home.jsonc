@@ -5,7 +5,8 @@
       "info-card",
       "info-card#button-right",
       "info-card#button-left",
-      "flex-layout.row"
+      "flex-layout.row",
+      "flex-layout.col"
       
     ]
   },
@@ -55,11 +56,19 @@
       "textAlignment": "center"
     }
   },
+
   "flex-layout.row":{
     "children": [
       "info-card#rethink",
       "rich-text#deletar"
-    ]
+    ],
+
+    "flex-layout.col":{
+      "children": [
+        "rich-text",
+        "rich-tex#deletar"
+      ]
+    }
   },
   
  "info-card#rethink": {
