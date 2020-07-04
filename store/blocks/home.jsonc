@@ -25,7 +25,6 @@
       "preventVerticalStretch": true
     }
   },
-  
   "rich-text": {
     "props": {
       "text": "*Hello, World!*",
