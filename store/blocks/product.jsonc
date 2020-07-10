@@ -16,9 +16,33 @@
   },
   "flex-layout.col#left":{
     "children":[
-      "produt-images"
+      "product-images"
     ]
   },
-  "flex-"
+  "flex-layout.col#right":{
+    "children":[
+      "product-name",
+      "product-price",
+      "buy-button#product"
+    ]
+  },
+  "product-name":{
+    "props":{
+      "showSKU": true,
+      "showBrandName": true
+    }
+  },
+  "product-price":{
+    "props":{
+      "showSavings": true,
+      "showListPrice": false
+    }
+  },
+  "buy-button#product":{
+    "props":{
+      "isOneClickbuy": true,
+      "showTooltipOnSkuNotSelectd": false
+    }
+  }
 
 }
