@@ -30,6 +30,11 @@
       "preventVerticalStretch": true
     }
   },
+  "product-images":{
+    "props":{
+      "displayThunbnailsArrows": true
+    }
+  },
   "product-name":{
     "props":{
       "showSKU": true,
