@@ -51,11 +51,6 @@
       "hideImpossibleCombinations": false
     }
   },
-  "shipping-simulator": {
-    "props": {
-      "skuID": "342"
-    }
-  },
   "product-name": {
     "props": {
       "showSKU": true,
