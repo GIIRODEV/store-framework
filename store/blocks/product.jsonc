@@ -42,12 +42,18 @@
   },
   "flex-layout.row#product": {
     "children": [
-      "sku-selector"
+      "sku-selector",
+      "shipping-simulator"
     ]
   },
   "sku-selector": {
     "props": {
       "hideImpossibleCombinations": false
+    }
+  },
+  "shipping-simulator": {
+    "props": {
+      "skuID": "342"
     }
   },
   "product-name": {
