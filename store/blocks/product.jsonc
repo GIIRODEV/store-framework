@@ -51,6 +51,9 @@
       "hideImpossibleCombinations": false
     }
   },
+  "shipping-simulator": {
+
+  },
   "product-name": {
     "props": {
       "showSKU": true,
