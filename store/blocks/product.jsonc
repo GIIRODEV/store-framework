@@ -43,8 +43,7 @@
   },
   "flex-layout.row#product": {
     "children": [
-      "sku-selector",
-      "shipping-simulator"
+      "sku-selector"
     ]
   },
   "sku-selector": {
