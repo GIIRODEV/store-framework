@@ -8,5 +8,8 @@
         "search-result-layout.mobile",
         "search-not-found-layout"
      ]
+  },
+  "search-result-layout.desktop":{
+
   }
  }
