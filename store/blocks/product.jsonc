@@ -39,13 +39,13 @@
   },
   "flex-layout.row#qty-sku": {
     "children": [
-      "sku-selector",
+      /*"sku-selector",*/
       "product-quantity"
     ]
   },
   "flex-layout.row#product": {
     "children": [
-      "sku-selector"
+      /*"sku-selector"*/
     ]
   },
   "stack-layout#brand": {
