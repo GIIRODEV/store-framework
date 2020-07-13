@@ -51,7 +51,8 @@
   "stack-layout#brand": {
     "children": [
       "product-images",
-      "product-brand"
+      "product-brand",
+      "sku-selector"
     ]
   },
   "sku-selector": {
