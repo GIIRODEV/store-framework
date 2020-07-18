@@ -6,7 +6,9 @@
      "blocks": [
         "search-result-layout.desktop",
         "search-result-layout.mobile",
-        "search-not-found-layout"
+        "search-not-found-layout",
+        "gallery",
+        "not-found"
      ]
   },
   "search-result-layout.desktop":{
@@ -17,7 +19,6 @@
          "search-fetch-previous",
          "flex-layout.row#results",     
          "search-fetch-more"
-         
       ]
   },
   "flex-layout.row#top":{
