@@ -13,6 +13,12 @@
      "blocks":["gallery","not-found"]
 
   },
+  "gallery":{
+      "blocks":["product-summary.shelf"]
+  },
+  "not-found":{
+
+  },
   "search-result-layout.desktop":{
       "children":[
          "breadcrumb.search",
