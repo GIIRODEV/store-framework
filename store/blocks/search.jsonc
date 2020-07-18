@@ -1,9 +1,6 @@
 {
   "store.search": {
-     "blocks": [
-       "search-result-layout",
-       "gallery",
-       "not-found"]
+     "blocks": ["search-result-layout"]
   },
   "search-result-layout": {
      "blocks": [
@@ -11,6 +8,10 @@
         "search-result-layout.mobile",
         "search-not-found-layout"
      ]
+  },
+  "search-content":{
+     "blocks":["gallery","not-found"]
+
   },
   "search-result-layout.desktop":{
       "children":[
