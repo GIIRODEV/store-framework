@@ -7,7 +7,7 @@
         },
         "image#landing":{
             "props":{
-                "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
+                "srcset":"Blue Top Retro Camera",
                 "minWidth": 100 
             }
         },
@@ -17,6 +17,7 @@
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
                    "maxItemsPerPage":8
+                
                 }
             }   
         }
