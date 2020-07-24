@@ -17,7 +17,7 @@
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
                    "maxItemsPerPage":8,
-                   "OrderByNameASC":"Blue Top Retro Camera" 
+                   "filterBreadcrumbsItemName":"Blue Top Retro Camera" 
                 }
             }   
         }
