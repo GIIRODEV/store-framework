@@ -1,0 +1,23 @@
+{
+    "store.custom#landing":{
+        "blocks": [
+            "image#landing",
+            "search-result-layout.customQuery"
+          ]
+        },
+        "image#landing":{
+            "props":{
+                "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
+                "minWidth": 100 
+            }
+        },
+        "search-result-layout.customQuery":{
+            "props":{
+                "querySchema":{
+                   "orderByField":"OrderByReleaseDataDesc",
+                   "hideUnavailableItems":false,
+                   "maxItemsPerPage":8
+                }
+            }   
+        }
+}
