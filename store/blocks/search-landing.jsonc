@@ -17,10 +17,7 @@
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
                    "maxItemsPerPage":8,
-                   "SpecificationFilters":{
                    "name":"Blue Top Retro Camera" 
-                   }
-                
                 }
             }   
         }
