@@ -1,28 +1,15 @@
 {
     "store.custom#landing":{
         "blocks": [
-            "flex-layout.row",
+          
+            "image#landingbanner",
             "search-result-layout.customQuery"
           ]
-        },
-        "flex-layout.row":{
-            "children":[
-                "flex-layout.col"
-            ]
-        },
-        "flex-layout.col":{
-            "children":[
-                "image#landingbanner"
-            ],
-            "props":{
-                "blockClass":"textColumn",
-                "preventVerticalStretch": true
-            }
         },
         "image#landingbanner":{
             "props":{
                 "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
-                "minWidth": "100%" 
+                "minWidth": "100%"
             }
         },
         "search-result-layout.customQuery":{
