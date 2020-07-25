@@ -1,9 +1,23 @@
 {
     "store.custom#landing":{
         "blocks": [
-            "image#landingbanner",
+            "flex-layout.row",
             "search-result-layout.customQuery"
           ]
+        },
+        "flex-layout.row":{
+            "children":[
+                "flex-layout.col"
+            ]
+        },
+        "flex-layout.col":{
+            "children":[
+                "image#landingbanner"
+            ],
+            "props":{
+                "blockClass":"textColumn",
+                "preventVerticalStretch": true
+            }
         },
         "image#landingbanner":{
             "props":{
