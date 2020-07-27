@@ -13,7 +13,7 @@
         },
         "search-result-layout.customQuery":{
             "props":{
-                "mane"
+                
                 "querySchema":{
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
