@@ -12,6 +12,9 @@
             }
         },
         "search-result-layout.customQuery":{
+            "children":[
+                
+            ],
             "props":{
                 "querySchema":{
                    "orderByField":"OrderByReleaseDataDesc",
