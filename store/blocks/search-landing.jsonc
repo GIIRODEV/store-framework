@@ -17,9 +17,7 @@
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
                    "maxItemsPerPage":8,
-                   "facetsBehavior": "Static",
-                   "skusFilter":"FIRST_AVAILABLE",
-                   "simulationBehavior": "skip"
+                   "facetsBehavior": "Static"
                 }
             }   
         }
