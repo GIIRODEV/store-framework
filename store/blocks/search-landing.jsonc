@@ -1,7 +1,6 @@
 {
     "store.custom#landing":{
-        "blocks": [
-          
+        "blocks": [          
             "image#landingbanner",
             "search-result-layout.customQuery"
           ]
@@ -14,6 +13,7 @@
         },
         "search-result-layout.customQuery":{
             "props":{
+                "mane"
                 "querySchema":{
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
