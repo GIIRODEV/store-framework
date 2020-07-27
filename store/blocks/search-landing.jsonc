@@ -13,7 +13,6 @@
         },
         "search-result-layout.customQuery":{
             "props":{
-                
                 "querySchema":{
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
