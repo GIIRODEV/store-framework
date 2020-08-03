@@ -12,22 +12,11 @@
             }
         },
         "search-result-layout.customQuery":{
-            "blocks":[
-                "search-result-layout.desktop"
-            ],
-            "search-result-layout.desktop":{
-                "children":[
-                    "flex-layout.row#searchbread",
-                    "flex-layout.row#searchtitle",
-                    "flex-layout.row#result"
-                ]
-            },
             "props":{
                 "querySchema":{
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
-                   "maxItemsPerPage":8,
-                   "gallery":"Blue Top Retro Camera"
+                   "maxItemsPerPage":8
                 }
             }   
         }
