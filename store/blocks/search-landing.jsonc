@@ -13,11 +13,10 @@
         },
         "search-result-layout.customQuery":{
             "props":{
-                "context":{
-                    "skusFilter":"FIRST_AVAILABLE",
-                    "simulationBehavior":"skip"
-                },
                 "querySchema":{
+                    
+                   "skusFilter":"FIRST_AVAILABLE",
+                    "simulationBehavior":"skip",
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
                    "maxItemsPerPage":8
