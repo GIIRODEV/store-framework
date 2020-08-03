@@ -16,7 +16,7 @@
                 "querySchema":{
                     
                    "skusFilter":"FIRST_AVAILABLE",
-                    "simulationBehavior":"skip",
+                   "simulationBehavior":"skip",
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
                    "maxItemsPerPage":8
