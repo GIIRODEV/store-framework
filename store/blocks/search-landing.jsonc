@@ -12,9 +12,13 @@
             }
         },
         "search-result-layout.customQuery":{
+            "blocks": [
+                "search-result-layout.desktop",
+                "search-result-layout.mobile",
+                "search-not-found-layout"
+              ],
             "props":{
                 "querySchema":{
-                    
                    "skusFilter":"FIRST_AVAILABLE",
                    "simulationBehavior":"skip",
                    "orderByField":"OrderByReleaseDataDesc",
@@ -23,5 +27,17 @@
                    "facetBehavior":"Blue Top Retro Camera"
                 }
             }   
+        },
+        "search-result-layout.desktop":{
+            "search-result-layout.desktop": {
+                "children": [
+                  "flex-layout.row#searchbread",
+                  "flex-layout.row#searchtitle",
+                  "flex-layout.row#result"
+                ],
+                "props": {
+                  "preventRouteChange": true
+                }
+              }
         }
 }
