@@ -23,8 +23,7 @@
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
                    "maxItemsPerPage":8,
-                   "facetBehavior":"Static"
-                   
+                   "facetBehavior":"Static" 
                 }
             }   
         },

@@ -4,7 +4,7 @@
   },
   "search-result-layout": {
      "blocks": [
-        "search-result-layout.desktop",
+        //"search-result-layout.desktop",
         "search-result-layout.mobile",
         "search-not-found-layout"
      ]
@@ -18,7 +18,7 @@
   },
   "not-found":{
 
-  },
+  }/*,
   "search-result-layout.desktop":{
       "children":[
          "breadcrumb.search",
@@ -53,5 +53,5 @@
       "children":[
          "search-content"
       ]
-   }
+   }*/
  }
