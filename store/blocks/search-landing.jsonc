@@ -26,5 +26,11 @@
                    
                 }
             }   
+        },
+        "search-not-found-layout":{
+         "children":[
+             "not-found"
+         ]   
         }
+        
 }
