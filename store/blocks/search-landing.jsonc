@@ -12,7 +12,9 @@
             }
         },
         "search-result-layout.customQuery":{
-           
+           "blocks":[
+               "search-not-found-layout"
+           ],
             "props":{
                 "querySchema":{
                    "skusFilter":"FIRST_AVAILABLE",
@@ -20,8 +22,8 @@
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
                    "maxItemsPerPage":8,
-                   "facetBehavior":"Static",
-                   "simulationBehavior":"default"
+                   "facetBehavior":"Static"
+                   
                 }
             }   
         }
