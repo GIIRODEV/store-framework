@@ -18,7 +18,7 @@
            ],
             "props":{
                 "querySchema":{
-                   "skusFilter":"FIRST_AVAILABLE",
+                   "skusFilter":"ALL",
                    "simulationBehavior":"skip",
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
