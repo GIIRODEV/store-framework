@@ -33,9 +33,7 @@
          ]   
         },
         "search-result-layout.desktop":{
-          "props":{
-             "showFacetQuantity": true
-          }
+         
         }
         
 }
