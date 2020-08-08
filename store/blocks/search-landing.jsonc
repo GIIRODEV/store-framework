@@ -24,7 +24,7 @@
                    "hideUnavailableItems":false,
                    "maxItemsPerPage":8,
                    "facetBehavior":"Static" ,
-                   "schema":"Blue Top Retro Camera"
+                   "_keyword":"Blue Top Retro Camera"
                 }
             }   
         },
