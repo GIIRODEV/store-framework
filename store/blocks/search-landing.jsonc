@@ -31,5 +31,17 @@
          "children":[
              "not-found"
          ]   
-        }
+        },
+        "search-result-layout.desktop":{
+         "children":[
+            "flex-layout.row#top"
+            
+         ]
+        },
+        "flex-layout.row#top":{
+         "children":[
+         "total-products.v2",
+         "order-by.v2"
+      ]
+   }
 }
