@@ -23,8 +23,7 @@
                    "orderByField":"OrderByReleaseDataDesc",
                    "hideUnavailableItems":false,
                    "maxItemsPerPage":8,
-                   "facetBehavior":"Static" ,
-                   "_keyword":"Blue Top Retro Camera"
+                   "facetBehavior":"Static"
                 }
             }   
         },
@@ -57,7 +56,8 @@
          "filter-navigator.v3"
       ],
       "props":{
-         "width": "20%"
+         "width": "20%",
+         "keyword":"Blue Top Retro Camera"
       }
    },
    "flex-layout.col#search":{
