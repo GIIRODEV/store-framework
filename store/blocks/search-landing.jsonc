@@ -35,8 +35,7 @@
         },
         "search-result-layout.desktop":{
          "children":[
-            "flex-layout.row#top",
-            "flex-layout.row#results"
+            "Blue Top Retro Camera"
             
          ]
         },
