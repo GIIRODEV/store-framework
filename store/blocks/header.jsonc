@@ -1,0 +1,9 @@
+{
+    "header-row#notification":{
+        "children":[
+            "header-spacer",
+            "rich-tex#header",
+            "header-spacer"
+        ]
+    }
+}
