@@ -24,8 +24,8 @@
                    "hideUnavailableItems":false,
                    "maxItemsPerPage":8,
                    "facetBehavior":"Static",
-                   "installmentCriteria":"MAX_WITHOUT_INTEREST"
-
+                   "installmentCriteria":"MAX_WITHOUT_INTEREST",
+                   "queryField":"Blue Top Retro Camera"
                 }
             }   
         },
