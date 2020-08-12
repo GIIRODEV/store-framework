@@ -19,5 +19,10 @@
         "props":{
             "orientation":"vertical"
         }
+    },
+    "vtex.menu@2.x:submenu#small":{
+        "children":[
+            "vtex.menu@2.x:menu#small"
+        ]
     }
 }
