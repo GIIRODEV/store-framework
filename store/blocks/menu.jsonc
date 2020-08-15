@@ -11,15 +11,15 @@
     },
     "menu-item#shop": {
         "props": {
-          "id": "menu-item-shop",
+          "id": "menu-item-major",
           "type": "custom",
           "highlight": false,
           "itemProps": {
             "type": "internal",
             "href": "#",
             "noFollow": false,
-            "tagTitle": "Shop",
-            "text": "Shop"
+            "tagTitle": "major",
+            "text": "major"
           },
           "iconProps": {
             "id": "bnd-logo",
