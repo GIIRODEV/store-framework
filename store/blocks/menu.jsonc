@@ -11,14 +11,15 @@
     },
     "menu-item#major-appliances":{
         "props":{
+            "id": "menu-item-major-appliances",
             "type": "custom",
             "highlight": false,
             "itemPropos":{
                 "type": "internal",
                 "href": "#",
                 "noFollow": false,
-                "tagTitle": "Shop",
-                "text": "Shop"
+                "tagTitle": "major-appliances",
+                "text": "major-appliances"
             }
         },
         "blocks":["vtex.menu@2.x:submenu#major"]
