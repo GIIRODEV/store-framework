@@ -40,5 +40,8 @@
        "props":{
            "orientation":"vertical"
        }
+    },
+    "vtex.menu@2.x:menu#major":{
+        
     }
 }
