@@ -34,7 +34,6 @@
     "blocks":["vtex.menu@2.x:submenu#electronics"]
   },
   "menu-item#refrigerators": {
-    "children":[],
       "props":
     {
       "type": "category",
