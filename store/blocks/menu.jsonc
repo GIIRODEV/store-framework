@@ -9,7 +9,7 @@
             "orientation":"horizontal"
         }
     },
-    "menu-item#shop": {
+    "menu-item#major-appliances": {
         "props": {
           "id": "menu-item-major",
           "type": "custom",
