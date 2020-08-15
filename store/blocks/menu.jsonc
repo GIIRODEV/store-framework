@@ -11,6 +11,7 @@
     },
     "menu-item#shop": {
         "props": {
+          "id": "menu-item-shop",
           "type": "custom",
           "highlight": false,
           "itemProps": {
@@ -19,9 +20,16 @@
             "noFollow": false,
             "tagTitle": "Shop",
             "text": "Shop"
-          }
-        },
-        "blocks": ["vtex.menu@2.x:submenu#major"] // Defining a submenu
+          },
+          "iconProps": {
+            "id": "bnd-logo",
+            "size": 16,
+            "viewBox": "0 0 16 16",
+            "activeClassName": "rebel-pink",
+            "mutedClassName": "c-action-primary"
+          },
+          "iconToTheRight": true
+        }
       },
     "vtex.menu@2.x:submenu#major":{
         "children":[
