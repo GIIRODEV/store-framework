@@ -9,7 +9,7 @@
             "orientation":"horizontal"
         }
     },
-    "menu-item#major": {
+    "menu-item#major-appliances": {
         "props": {
           "id": "menu-item-major",
           "type": "custom",
@@ -19,7 +19,7 @@
             "href": "#",
             "noFollow": false,
             "tagTitle": "major",
-            "text": "major"
+            "text": "Major Appliances"
           },
           "iconProps": {
             "id": "bnd-logo",
@@ -28,7 +28,8 @@
             "activeClassName": "rebel-pink",
             "mutedClassName": "c-action-primary"
           },
-          "iconToTheRight": true
+          "iconToTheRight": true,
+          "blocks":["vtex.menu@2.x:submenu#major"]
         }
       },
     "vtex.menu@2.x:submenu#major":{
